@@ -12,7 +12,7 @@ The Habit Tracker App is a Python-based command-line application designed to hel
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/habit-tracker.git](https://github.com/joe2003-kariz/HabitTrackerApp.git)
+    git clone https://github.com/joe2003-kariz/HabitTrackerApp.git
     cd habit-tracker
     ```
 
